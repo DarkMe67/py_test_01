@@ -39,12 +39,12 @@ deactivate
 
 Push a repo up to git hub using:
 ```
-	git init
-	git add .
-	git commit -m "My personal project."
-	git remote add origin git@github.com:DarkMe67/py_test_00
+git init
+git add .
+git commit -m "My personal project."
+git remote add origin git@github.com:DarkMe67/py_test_00
 ```
 Create an empty project of the same name on git hub then push the files.
 ```
-	git push -u origin master
+git push -u origin master
 ```
